@@ -44,4 +44,9 @@
 <a href="https://colab.research.google.com/drive/1s2XPNMwf6HDhrJ1FMwlW1jl-eQ2-_tlk?usp=sharing#scrollTo=cwVXBFaSuoIU">Toonify colab</a> \
 <a href="https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing">Network blending in StyleGAN</a>
 
+https://zhuanlan.zhihu.com/p/151670805 人脸风格化核心技术与数据集总结
+
+https://zhuanlan.zhihu.com/p/257433625 Toonify yourself
+
+https://zhuanlan.zhihu.com/p/88442535 美图人像画质修复技术
 
